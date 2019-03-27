@@ -3,12 +3,11 @@
   <name>docking</name>
   <version>1.12.3</version>
   <description>The docking package</description>
+  <maintainer email="yuegong@deepglint.com">yuegong</maintainer>
   <license>BSD</license>
-
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>roscpp</build_depend>
   <run_depend>roscpp</run_depend>    
-
   <export>
     <!-- <nodelet plugin="${prefix}/docking_nodelet_plugins.xml" /> -->
   </export>
